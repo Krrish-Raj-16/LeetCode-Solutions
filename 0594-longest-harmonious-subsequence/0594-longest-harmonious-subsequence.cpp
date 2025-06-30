@@ -1,17 +1,19 @@
 class Solution {
 public:
+
     int findLHS(vector<int>& a) 
     {
         int n=a.size();
-        map<int,int> mp;
         sort(a.begin(), a.end());
-        for(int i=0;i<n;i++)mp[a[i]]++;
         int ans=0;
-        for(auto it: mp)
+        int l=0,r=1;
+        while(l<=r && r<n)
         {
-            if(mp.find(it.first+1)!=mp.end())
+            if(a[r]-a[l]>1)l++;
+            else 
             {
-                ans=max(ans, it.second+ mp[it.first+1]);
+                if(a[r]-a[l]==1) ans=max(ans, r-l+1);
+                r++;
             }
         }
         return ans;
