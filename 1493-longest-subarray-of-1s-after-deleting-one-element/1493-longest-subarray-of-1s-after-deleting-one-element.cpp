@@ -5,7 +5,6 @@ public:
         int n=a.size();
         vector<vector<int>> dp(n+1, vector<int>(2,0));
         dp[0][0]=a[0];
-        dp[0][1]=!a[0];
         int tot=a[0];
         for(int i=1;i<n;i++)
         {
