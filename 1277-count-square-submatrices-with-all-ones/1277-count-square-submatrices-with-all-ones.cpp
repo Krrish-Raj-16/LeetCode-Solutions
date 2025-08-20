@@ -6,7 +6,6 @@ public:
         int m=a[0].size();
         int ans=0;
         vector<vector<int>> dp(n+10, vector<int>(m+10,0));
-        
         for(int i=0;i<n;i++)
         {
             dp[i][0]=a[i][0];
