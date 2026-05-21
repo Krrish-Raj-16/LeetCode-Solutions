@@ -4,7 +4,7 @@ public:
         int xr=0;
         for(auto i: a)xr^=i;
         int sett=0, unset=0;
-        for(int i=0;i<32;i++)
+        for(int i=31;i>=0;i--)
         {
             if((1<<i)&xr)
             {
@@ -13,8 +13,7 @@ public:
                     if((num>>i)&1)sett^=num;
                     else unset^=num;
                  }
-                if(sett<unset) return {sett, unset};
-                else return {unset, sett};
+                return {unset, sett};
             }
         }
         return {};
