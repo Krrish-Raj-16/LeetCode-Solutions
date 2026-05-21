@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Krrish-Raj-16/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0137-single-number-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krrish-Raj-16/DSA/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 ## Divide and Conquer
@@ -62,5 +63,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krrish-Raj-16/DSA/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 <!---LeetCode Topics End-->
