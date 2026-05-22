@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0260-single-number-iii](https://github.com/Krrish-Raj-16/DSA/tree/main/0260-single-number-iii/) | Medium |
+| [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Krrish-Raj-16/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krrish-Raj-16/DSA/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
@@ -23,12 +24,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Krrish-Raj-16/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Krrish-Raj-16/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Krrish-Raj-16/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Merge Sort
@@ -46,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -55,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Krrish-Raj-16/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,5 +86,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Krrish-Raj-16/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 <!---LeetCode Topics End-->
