@@ -1,25 +1,30 @@
 class Solution {
 public:
-    int leastInterval(vector<char>& tasks, int n) 
-    {
-        vector<int> cnt(26, 0);
-        for (char t : tasks) cnt[t - 'A']++;
-        int ans = 0;
-        while (true) 
+    int leastInterval(vector<char>& tasks, int n) {
+        vector<int>mp(26,0);
+        for(auto c: tasks)mp[c-'A']++;
+        priority_queue<int>pq;
+        for(auto i:mp)if(i>0)pq.push(i);
+        int ans=0;
+        while(!pq.empty())
         {
-            sort(cnt.begin(), cnt.end(), greater<int>());
-            int i = 0, cycle = 0;
-            while (i < 26 && cycle <= n) 
+            vector<int>temp;
+            int count=0;
+            for(int i=0;i<n+1;i++)
             {
-                if (cnt[i] > 0) 
+                if(pq.empty())
                 {
-                    cnt[i]--;
-                    cycle++;
+                    break;
                 }
-                i++;
+                temp.push_back(pq.top()-1);
+                pq.pop();
+                count++;
             }
-            if (cycle == 0) break;
-            ans += (cycle == n + 1) ? cycle : (cnt[0] == 0 ? cycle : n + 1);
+            for(auto ii: temp)cout<<ii<<" ";
+            cout<<ans<<" "<<endl;
+           for(auto num: temp)if(num>0)pq.push(num);
+           if(pq.empty())ans+=count;
+           else ans+=n+1;
         }
         return ans;
     }
