@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0260-single-number-iii](https://github.com/Krrish-Raj-16/DSA/tree/main/0260-single-number-iii/) | Medium |
+| [0494-target-sum](https://github.com/Krrish-Raj-16/DSA/tree/main/0494-target-sum/) | Medium |
 | [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Krrish-Raj-16/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -92,9 +93,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0494-target-sum](https://github.com/Krrish-Raj-16/DSA/tree/main/0494-target-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1463-cherry-pickup-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Krrish-Raj-16/DSA/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
