@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Krrish-Raj-16/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Krrish-Raj-16/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Krrish-Raj-16/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0494-target-sum](https://github.com/Krrish-Raj-16/DSA/tree/main/0494-target-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krrish-Raj-16/DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
