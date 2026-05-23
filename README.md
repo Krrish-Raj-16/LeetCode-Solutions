@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krrish-Raj-16/DSA/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krrish-Raj-16/DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Krrish-Raj-16/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Krrish-Raj-16/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krrish-Raj-16/DSA/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Krrish-Raj-16/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krrish-Raj-16/DSA/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krrish-Raj-16/DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Krrish-Raj-16/DSA/tree/main/0044-wildcard-matching/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 <!---LeetCode Topics End-->
