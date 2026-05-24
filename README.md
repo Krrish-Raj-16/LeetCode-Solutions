@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Krrish-Raj-16/DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krrish-Raj-16/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0260-single-number-iii](https://github.com/Krrish-Raj-16/DSA/tree/main/0260-single-number-iii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Krrish-Raj-16/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Krrish-Raj-16/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0494-target-sum](https://github.com/Krrish-Raj-16/DSA/tree/main/0494-target-sum/) | Medium |
 | [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/Krrish-Raj-16/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Krrish-Raj-16/DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Krrish-Raj-16/DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/Krrish-Raj-16/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Krrish-Raj-16/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0494-target-sum](https://github.com/Krrish-Raj-16/DSA/tree/main/0494-target-sum/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krrish-Raj-16/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Krrish-Raj-16/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krrish-Raj-16/DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
