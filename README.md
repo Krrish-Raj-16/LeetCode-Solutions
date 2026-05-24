@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Krrish-Raj-16/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Krrish-Raj-16/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Krrish-Raj-16/DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0137-single-number-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Krrish-Raj-16/DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Krrish-Raj-16/DSA/tree/main/0044-wildcard-matching/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Krrish-Raj-16/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Krrish-Raj-16/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Krrish-Raj-16/DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Krrish-Raj-16/DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/Krrish-Raj-16/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -151,4 +154,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/Krrish-Raj-16/DSA/tree/main/0085-maximal-rectangle/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/Krrish-Raj-16/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
