@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/Krrish-Raj-16/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Krrish-Raj-16/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Krrish-Raj-16/DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Krrish-Raj-16/DSA/tree/main/0115-distinct-subsequences/) | Hard |
+| [0127-word-ladder](https://github.com/Krrish-Raj-16/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Krrish-Raj-16/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/Krrish-Raj-16/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/Krrish-Raj-16/DSA/tree/main/0207-course-schedule/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
