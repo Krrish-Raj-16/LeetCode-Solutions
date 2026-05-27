@@ -1,53 +1,30 @@
-static long long floor_div(long long x, long long y) {
-    long long d = x / y;
-    if ((x ^ y) < 0 && x % y)
-        --d;
-    return d;
-}
 
-static long long ceil_div(long long x, long long y) {
-    long long d = x / y;
-    if ((x ^ y) >= 0 && x % y)
-        ++d;
-    return d;
-}
 
 class Solution {
 public:
-    long long kthSmallestProduct(vector<int>& n1, vector<int>& n2,    long long k) {
-        if (n1.size() > n2.size()) swap(n1, n2);
-        long long m2 = n2.size();
-        auto cnt = [&](long long x) 
+    long long count(long long val, vector<int>&a, vector<int>&b)
+    {
+        long long cnt=0;
+        for(int x : a)
         {
-            long long c = 0;
-            for (long long a : n1) 
-            {
-                if (a > 0) 
-                {
-                    long long t = floor_div(x, a);
-                    c += upper_bound(n2.begin(), n2.end(), t) - n2.begin();
-                } 
-                else if (a < 0)
-                {
-                    long long t = ceil_div(x, a);
-                    c += m2 -(lower_bound(n2.begin(), n2.end(), t) - n2.begin());
-                } 
-                else if (x >= 0)  c += m2;
-            }
-            return c;
-        };
-        long long lo = min({(long long)n1.front() * n2.front(), (long long)n1.front() * n2.back(),
-                            (long long)n1.back() * n2.front(), (long long)n1.back() * n2.back()});
-        long long hi = max({(long long)n1.front() * n2.front(), (long long)n1.front() * n2.back(),
-                            (long long)n1.back() * n2.front(), (long long)n1.back() * n2.back()});
-        while (lo < hi) 
-        {
-            long long mid = lo + (hi - lo) / 2;
-            if (cnt(mid) >= k)
-                hi = mid;
-            else
-                lo = mid + 1;
+            if(x==0 && val>=0)cnt+=b.size();
+            else if(x>0)  cnt+=upper_bound(b.begin(), b.end(),floor((long double)val/x))-b.begin();
+            else if(x<0) cnt+= b.end()-lower_bound(b.begin(), b.end(), ceil((long double)val/x));
         }
-        return lo;
+        return cnt;
+    }
+
+    long long kthSmallestProduct(vector<int>& a, vector<int>& b,    long long k) {
+        int n=a.size();
+        int m=b.size();
+        long long lo=-1e10, hi=1e10;
+        long long mid, ans=0;
+        while(lo<=hi)
+        {
+            mid= lo+ (hi-lo)/2;
+            if(count(mid,a,b)>=k)hi=mid-1,ans=mid;
+            else lo=mid+1;
+        }
+        return ans;
     }
 };
