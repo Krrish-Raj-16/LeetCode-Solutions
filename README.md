@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Krrish-Raj-16/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Krrish-Raj-16/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Krrish-Raj-16/DSA/tree/main/0312-burst-balloons/) | Hard |
+| [0322-coin-change](https://github.com/Krrish-Raj-16/DSA/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/Krrish-Raj-16/DSA/tree/main/0494-target-sum/) | Medium |
 | [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krrish-Raj-16/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Krrish-Raj-16/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Krrish-Raj-16/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Krrish-Raj-16/DSA/tree/main/0312-burst-balloons/) | Hard |
+| [0322-coin-change](https://github.com/Krrish-Raj-16/DSA/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/Krrish-Raj-16/DSA/tree/main/0494-target-sum/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krrish-Raj-16/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/Krrish-Raj-16/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/Krrish-Raj-16/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0322-coin-change](https://github.com/Krrish-Raj-16/DSA/tree/main/0322-coin-change/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
