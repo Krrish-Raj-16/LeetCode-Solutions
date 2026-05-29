@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Krrish-Raj-16/DSA/tree/main/0085-maximal-rectangle/) | Hard |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krrish-Raj-16/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krrish-Raj-16/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0207-course-schedule](https://github.com/Krrish-Raj-16/DSA/tree/main/0207-course-schedule/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -200,4 +202,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Krrish-Raj-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krrish-Raj-16/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krrish-Raj-16/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krrish-Raj-16/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
