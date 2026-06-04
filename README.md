@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krrish-Raj-16/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krrish-Raj-16/DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krrish-Raj-16/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,4 +218,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krrish-Raj-16/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krrish-Raj-16/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krrish-Raj-16/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
