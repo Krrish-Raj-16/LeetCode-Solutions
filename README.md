@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krrish-Raj-16/DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Krrish-Raj-16/DSA/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/Krrish-Raj-16/DSA/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/Krrish-Raj-16/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Krrish-Raj-16/DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krrish-Raj-16/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Krrish-Raj-16/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Krrish-Raj-16/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
